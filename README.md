@@ -17,21 +17,34 @@ If you are developing a production application, we recommend using TypeScript wi
 
 ---
 
-# NutriTrack Documentation
+<br />
+<div align="center">
+  <h1 align="center">NutriTrack</h1>
+  <p align="center">
+    A modern, comprehensive health and wellness tracking application built with React.
+    <br />
+    <a href="https://github.com/Jz100505/NutriTrack-v2"><strong>Explore the docs »</strong></a>
+  </p>
+</div>
 
-NutriTrack is a modern, comprehensive health and wellness tracking application built with React and Vite. It provides users with an intuitive interface to monitor their daily habits including nutrition, hydration, sleep, and community engagement.
+## 📖 About The Project
+
+NutriTrack is an all-in-one personal health dashboard designed to make self-care intuitive and engaging. It provides users with a beautifully crafted interface to monitor daily habits including nutrition, hydration, sleep cycles, and community engagement. 
+
+By centralizing scattered health metrics into a single, cohesive dashboard, NutriTrack empowers users to take actionable steps toward their fitness and wellness goals.
+
+---
 
 ## 🚀 Getting Started
 
-Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
+Follow these instructions to get a copy of the project on your local machine.
 
 ### Prerequisites
 
 You will need **Node.js** installed on your system. You can download it from [nodejs.org](https://nodejs.org/).
 
-### Installation & Running Locally
+### Installation
 
-1. **Clone the repository** (if you haven't already):
+1. **Clone the repository**:
    ```bash
    git clone https://github.com/Jz100505/NutriTrack-v2.git
-   cd NutriTrack-v2
